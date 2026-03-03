@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
             style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
           ),
           Text(
-            "Flutter Learner 🚀",
+            "Flutter Learner",
             style: TextStyle(fontSize: 16, color: Colors.grey),
           ),
           SizedBox(height: 20),
